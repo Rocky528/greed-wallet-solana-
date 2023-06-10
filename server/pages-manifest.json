@@ -1,0 +1,10 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/MetaplexProvider": "pages/MetaplexProvider.js",
+  "/ShowNFTs": "pages/ShowNFTs.js",
+  "/api/hello": "pages/api/hello.js",
+  "/": "pages/index.js",
+  "/useMetaplex": "pages/useMetaplex.js",
+  "/_document": "pages/_document.js"
+}
